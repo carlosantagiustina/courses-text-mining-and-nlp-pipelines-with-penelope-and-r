@@ -1,5 +1,6 @@
 title: Text Mining and NLP pipelines with Penelope and R
-description: Course description goes here.
+description: >-
+  This course will teach you how to use Penelope and  other OpenAPIs from R for
+  constructing pipelines for web textual data analysis and visualization
 programming_language: r
-from: "r-base-prod:v1.0.2"
-#from: "tidyverse-base-prod:v1.0.2"
+from: 'r-base-prod:v1.0.2'
