@@ -1,6 +1,6 @@
 ---
-title: 'Chapter Title Here'
-description: 'Chapter description goes here.'
+title: 'Introduction to Penelope'
+description: 'Brief overview of Penelope and  OpenAPIs'
 ---
 
 ## Example coding exercise
